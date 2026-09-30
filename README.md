@@ -1,4 +1,4 @@
-# Systems Radar
+# Systems & Tools Radar
 
 An honest map of the revenue and go-to-market systems world, plus the logo library that
 illustrates it. Built to close the gap between the tools I have personally run and the full
@@ -44,7 +44,7 @@ general-purpose logo library for decks.
 Link to the raw URL:
 
 ```
-https://raw.githubusercontent.com/sarahcallmesmadds/radar-assets/main/icons/Salesforce.webp
+https://raw.githubusercontent.com/Always-Allow/systems-tools-radar/main/icons/Salesforce.webp
 ```
 
 Point Claude at a folder path and it can pick the right logo for a deck without you hunting
