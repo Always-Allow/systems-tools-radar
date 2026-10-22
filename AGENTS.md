@@ -10,7 +10,7 @@ This is Sarah's personal knowledge base on the revenue and go-to-market systems 
 - `entries/_TEMPLATE.md`: the required shape for every entry.
 - `BACKLOG.md`: the to-research checklist, kept in priority order.
 - `covers/` and `icons/`: the logo library, one image per tool. Filenames are a contract: they are referenced by raw URL from Notion and from decks, so never rename an existing file. See the README.
-  - `Attio.png` and `Riveter.jpeg` are white to the corners at source, so on any non-white ground they show as a white box. The fix is a transparent source replaced in place under the same name, never a new filename.
+  - `Attio.png` and `Riveter.jpeg` are white to the corners at source, so on any non-white ground they show as a white box. For `Attio.png` the fix is a transparent PNG replaced in place under the same name. `Riveter.jpeg` cannot become transparent under its own name, because JPEG has no transparency: keep it on white grounds, and moving it to a new PNG name means updating every link to it, which is Sarah's call.
 
 ## What never goes in here
 The name of any current employer, prospective employer, colleague or customer. An entry may describe a category or a vendor's product honestly. It may not say who runs what, or what is weak about a named company's stack. That reads as research on a target rather than knowledge of a market, and the target can read it.
